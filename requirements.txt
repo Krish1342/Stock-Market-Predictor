@@ -1,0 +1,15 @@
+yfinance
+pandas
+numpy
+matplotlib
+tensorflow
+scikit-learn
+vaderSentiment
+requests
+ta
+transformers
+keras
+optuna
+newspaper3k
+googlesearch-python
+beautifulsoup4
